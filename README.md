@@ -13,14 +13,14 @@ I focus on automating workflows, analyzing complex datasets, and creating intera
 
 ## 🚀 Projects
 
-### 🐍 Python
-**[Car Rental Platform](https://github.com/Vivek-12-1234/Python---Car-Rental-Platform)**  
-Object-Oriented Python application for managing a car rental business with vehicle inventory, bookings, and returns.
+### 🐍📊 Python  
+**[Marketing Campaign Analysis](https://github.com/Vivek-12-1234/AB_Testing_Marketing_Campaign_Analysis)**  
+End-to-end marketing campaign analysis using Python, focusing on A/B testing, data cleaning, statistical hypothesis testing, and actionable insights to evaluate campaign performance and optimize conversion strategies.
 
 **[App Rating Prediction](https://github.com/Vivek-12-1234/App-Rating-Prediction---Python)**  
 Machine learning model to predict mobile app ratings based on reviews, app category, and other attributes.
 
-**[Customer Churn Data Analysis](https://github.com/Vivek-12-1234/Customer-Churn-Data-Analysis)**  
+**[Customer Churn Analysis](https://github.com/Vivek-12-1234/Customer-Churn-Data-Analysis)**  
 Exploratory data analysis and predictive modeling to identify customers likely to churn.
 
 ---
@@ -36,6 +36,13 @@ SQL analysis to track pizza shop sales trends, top sellers, and revenue patterns
 Interactive Tableau dashboard visualizing sales performance, top products, and regional trends.
 
 ---
+
+### 📊 Power BI Dashboard | ETL | RLS | Drill-Through  
+**[Export Shipment Performance Analysis](https://github.com/Vivek-12-1234/Export-Performance-Dashboard)**  
+An end-to-end **Power BI Export Shipment Performance Dashboard** built using **Excel as the data source** and **ETL processes in Power BI (Power Query)** to clean, transform, and model data. The dashboard enables stakeholders to track **operational efficiency, profitability, delivery performance, and customer satisfaction** through interactive and secure analytics.
+
+---
+
 
 ### 🐍 + 🛢 Python + SQL
 **[E-commerce Data Analysis](https://github.com/Vivek-12-1234/SQL-Python)**  
