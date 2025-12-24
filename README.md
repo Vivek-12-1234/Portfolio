@@ -59,13 +59,13 @@ Interactive Power BI dashboard analyzing Uber trip data to uncover booking trend
 
 ---
 
-### Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn   
+### Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Machine Learning | Classification
 **[Telco Customer Churn Analysis & Prediction ](https://github.com/Vivek-12-1234/Customer-Churn-Prediction)**  
 An end-to-end **customer churn analysis project** focused on identifying customers likely to leave a telecom service. The project includes **data cleaning, exploratory data analysis (EDA), feature encoding, and machine learning model building** using **Logistic Regression and Random Forest**. The insights help businesses take **proactive, data-driven retention actions** instead of reacting after churn occurs.
 
 ---
 
-### Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn  
+### Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Unsupervised Learning | Clustering
 **[Customer Segmentation Using K-Means](https://github.com/Vivek-12-1234/customer-segmentation-kmeans)**  
 An end-to-end **customer segmentation project** using **K-Means clustering** to group mall customers based on **annual income and spending behavior**. The project applies the **Elbow Method and Silhouette Score** to determine the optimal number of clusters and provides **clear cluster interpretation** to support **targeted and effective marketing strategies**.
 
