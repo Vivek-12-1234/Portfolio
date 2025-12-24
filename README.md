@@ -1,17 +1,20 @@
-# Hi, Welcome to My Data Analyst Portfolio 👋  
+# Data Analytics & Data Science Portfolio
 
-**I'm Vivek** – an aspiring Data Analyst with hands-on experience in Python, SQL, Tableau, Power BI,
-Looker Studio, Excel, Google Sheets, and Google Apps Script.  
-I focus on automating workflows, analyzing complex datasets, and creating interactive dashboards that deliver actionable insights.
+A collection of real-world data analytics and data science projects using SQL, Python, Excel, Power BI, and Tableau to analyze sales, marketing, and customer behavior, with the goal of turning data into clear, actionable business insights.
 
 ## Skills & Tools
-- **Programming & Scripting:** Python (Pandas, NumPy, Matplotlib, Seaborn), Google Apps Script
-- **Databases:** SQL Server, MySQL
-- **Visualization & BI:** Tableau, Power BI, Looker Studio
-- **Spreadsheets:** Excel (Pivot Tables, Power Query), Google Sheets (Formulas, Automation)
-- **Other:** Data Cleaning, Dashboarding, Process Automation
+
+- **Python & Analytics:** Python for data cleaning, exploratory analysis, visualization, and basic machine learning using Pandas, NumPy, Matplotlib, and Seaborn  
+- **Databases & Querying:** SQL (SQL Server, MySQL) for data extraction, joins, aggregations, and reporting  
+- **Business Intelligence & Visualization:** Power BI, Tableau, and Looker Studio for building interactive dashboards, KPIs, and business reports  
+- **Spreadsheets & Automation:** Excel (Pivot Tables, Power Query) and Google Sheets (advanced formulas, automation), Google Apps Script for workflow automation  
+- **Core Analytics Skills:** Data cleaning, data transformation, dashboard development, reporting automation, and turning data into actionable business insights
+
 
 ## Projects
+
+---
+
 ### Python
 **[App Rating Prediction](https://github.com/Vivek-12-1234/App-Rating-Prediction---Python)**  
 Machine learning model to predict mobile app ratings based on reviews, app category, and other attributes.
