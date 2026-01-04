@@ -62,6 +62,12 @@ Interactive Power BI dashboard analyzing Uber trip data to uncover booking trend
 
 ---
 
+### Python | Pandas | NumPy | SciPy | Matplotlib | Seaborn | Scikit-learn | XGBoost | Regression  
+**[Medical Insurance Charges Analysis & Prediction](https://github.com/Vivek-12-1234/Medical-Insurance-Charges-Analysis)**  
+An end-to-end **regression and risk analysis project** focused on identifying key factors influencing **medical insurance charges**. The project includes **data cleaning, exploratory data analysis (EDA), hypothesis testing, feature engineering**, and **model comparison** using **Linear Regression, Random Forest, Gradient Boosting, and XGBoost**. Gradient Boosting emerged as the best-performing model, explaining **~90% of the variance** in charges. The analysis delivers **business-ready insights** to support **fair pricing, risk assessment, and insurance decision-making**.
+
+---
+
 ### Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Machine Learning | Classification
 **[Telco Customer Churn Analysis & Prediction ](https://github.com/Vivek-12-1234/Customer-Churn-Prediction)**  
 An end-to-end **customer churn analysis project** focused on identifying customers likely to leave a telecom service. The project includes **data cleaning, exploratory data analysis (EDA), feature encoding, and machine learning model building** using **Logistic Regression and Random Forest**. The insights help businesses take **proactive, data-driven retention actions** instead of reacting after churn occurs.
